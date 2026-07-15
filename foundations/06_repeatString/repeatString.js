@@ -1,5 +1,5 @@
 const repeatString = function(string, num) {
-    let repeat 
+    let repeat = ""
     for ( let i = 0; i < num; i++) {
         repeat += string
     }
